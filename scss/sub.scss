@@ -1,0 +1,57 @@
+@charset 'utf-8';
+
+@import './mixin.scss';
+@import './reset.scss';
+
+main {
+	width: 100%;
+}
+
+.product_wrap {
+	width: 1200px;
+	margin: 0 auto;
+
+	.product_btn_container {
+		margin: 20px 0;
+
+		.product_btn {
+			margin-right: 10px;
+			padding: 3px 10px;
+			font-size: 16px;
+			border: none;
+			border-radius: 10px;
+			background-color: #e6f8ff;
+			cursor: pointer;
+
+			&.btn_on {
+				background-color: #97e1ff;
+			}
+		}
+	}
+
+	.product_container {
+		display: flex;
+		flex-wrap: wrap;
+
+		.product {
+			width: 295px;
+			height: 400px;
+			margin: 0px 5px 15px 0px;
+			border: 1px solid #ccc;
+			border-bottom: 3px solid #97e1ff;
+			border-radius: 15px;
+
+			@include c-center;
+
+			em {
+				padding: 25px 0 10px 0;
+				font-size: 1.5rem;
+			}
+
+			span {
+				font-size: 1.2rem;
+			}
+		}
+
+	}
+}
