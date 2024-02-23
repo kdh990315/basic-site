@@ -40,7 +40,7 @@ a {
   width: 250px;
   height: 100%;
   border-radius: 10px;
-  border: 1px solid #000;
+  border: 1px solid #ccc;
   margin-right: 10px;
 }
 #banner_section .left_banner .left_banner_title {
@@ -165,7 +165,7 @@ a {
   border: 1px solid black;
   margin-right: 5px;
   background-color: #fff;
-  color: #000;
+  color: #ccc;
   cursor: pointer;
 }
 #banner_section .right_banner #pager span.on {
@@ -184,7 +184,7 @@ a {
 #notice_section .left_notice {
   width: 250px;
   height: 100%;
-  border: 1px solid #636262;
+  border: 1px solid #ccc;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   margin-right: 10px;
@@ -231,7 +231,7 @@ a {
 #notice_section .main_notice {
   width: 700px;
   height: 100%;
-  border: 1px solid #636262;
+  border: 1px solid #ccc;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
 }
@@ -257,11 +257,11 @@ a {
 }
 #notice_section .main_notice .main_notice_title .tap1 {
   border-top-left-radius: 10px;
-  border-right: 1px solid #636262;
+  border-right: 1px solid #ccc;
 }
 #notice_section .main_notice .main_notice_title .tap3 {
   border-top-right-radius: 10px;
-  border-left: 1px solid #636262;
+  border-left: 1px solid #ccc;
 }
 #notice_section .main_notice .main_notice_info {
   width: 100%;
@@ -307,7 +307,7 @@ a {
 #notice_section .right_notice {
   width: 250px;
   height: 100%;
-  border: 1px solid #636262;
+  border: 1px solid #ccc;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   margin-left: 10px;

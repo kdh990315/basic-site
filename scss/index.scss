@@ -27,7 +27,7 @@
 		width: 250px;
 		height: 100%;
 		border-radius: 10px;
-		border: 1px solid #000;
+		border: 1px solid #ccc;
 		margin-right: 10px;
 
 		.left_banner_title {
@@ -167,7 +167,7 @@
 				border: 1px solid black;
 				margin-right: 5px;
 				background-color: #fff;
-				color: #000;
+				color: #ccc;
 				cursor: pointer;
 
 				&.on {
@@ -189,7 +189,7 @@
 	.left_notice {
 		width: 250px;
 		height: 100%;
-		border: 1px solid #636262;
+		border: 1px solid #ccc;
 		border-top-left-radius: 10px;
 		border-top-right-radius: 10px;
 		margin-right: 10px;
@@ -244,7 +244,7 @@
 	.main_notice {
 		width: 700px;
 		height: 100%;
-		border: 1px solid #636262;
+		border: 1px solid #ccc;
 		border-top-left-radius: 10px;
 		border-top-right-radius: 10px;
 
@@ -272,12 +272,12 @@
 			
 			.tap1 {
 				border-top-left-radius: 10px;
-				border-right: 1px solid #636262;
+				border-right: 1px solid #ccc;
 			}
 
 			.tap3 {
 				border-top-right-radius: 10px;
-				border-left: 1px solid #636262;
+				border-left: 1px solid #ccc;
 			}
 		}
 
@@ -335,7 +335,7 @@
 	.right_notice {
 		width: 250px;
 		height: 100%;
-		border: 1px solid #636262;
+		border: 1px solid #ccc;
 		border-top-left-radius: 10px;
 		border-top-right-radius: 10px;
 		margin-left: 10px;
